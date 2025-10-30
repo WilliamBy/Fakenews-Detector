@@ -30,7 +30,6 @@ root
  │   ├── optimize.py			//自动参数选择模块
  │   ├── predict.py				//预测模块
  │   └── preprocess.py			//预处理模块
- └── 说明手册.md
 ```
 
 ### 使用流程
